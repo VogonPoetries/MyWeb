@@ -17,6 +17,8 @@ div
 {
   width: 200px;
   border: 1px solid blue;
+  background-color: blue;
+  text-align: right;
 }
 
 p
