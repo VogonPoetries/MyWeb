@@ -1,10 +1,16 @@
 body
 {
   font-family: Tahoma, sans-serif;
-  color: blue;
+  color: #cccccc;
+  background-color: peachpuff;
+}
+
+h1
+{
+  color: purple;
 }
 
 p
 {
-  font-size: 
+  color: red;
 }
