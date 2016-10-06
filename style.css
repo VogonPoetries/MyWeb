@@ -8,9 +8,13 @@ body
 h1
 {
   color: purple;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 30px;
 }
 
 p
 {
   color: red;
+  border: 1px solid green;
 }
